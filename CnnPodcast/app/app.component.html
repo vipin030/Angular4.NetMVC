@@ -1,0 +1,31 @@
+﻿<h2>Betsson Application...</h2>
+<form [formGroup]="cnnForm">
+    <div class="row cnn-select">
+        <select class="form-control" formControlName="category">
+            <option *ngFor="let item of rssCategory">{{ item }}</option>
+        </select>
+    </div>
+    <div *ngIf="rssFeeds" class="row">
+        <div class="row top-heading">
+            <div class="col-sm-12">
+                <div><h3>{{rssFeeds.cnnPodcast['podcastTitle']}}</h3></div>
+                <div>{{rssFeeds.cnnPodcast['podcastDescription']}}</div>
+            </div>
+        </div>
+        <div *ngIf="rssFeeds.cnnPodcast.cnnPodcastClipItemModels" class="row">
+            <div *ngFor="let clipItem of rssFeeds.cnnPodcast.cnnPodcastClipItemModels; let i = index">
+                <div class="clearfix" *ngIf="i%4==0"></div>
+                <div class="col-sm-3">
+                    <div>
+                        <h3 class="headline-txt">
+                            <a href="{{clipItem.clipLink}}" target="_blank"><span>{{clipItem.clipTitle}}</span></a>
+                        </h3>
+                    </div>
+                    <div [innerHtml]="clipItem.clipDescription" class="cnn-descrn"></div>
+                    <p><span class="published-date">{{clipItem.clipDate}}</span></p>
+                    <!---<p>ClipMedia: {{clipItem.clipMedia}}</p>-->
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

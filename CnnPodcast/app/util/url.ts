@@ -1,0 +1,1 @@
+export const CNN_URL = "api/cnnpodcastwebapi/getcnnpodcast";

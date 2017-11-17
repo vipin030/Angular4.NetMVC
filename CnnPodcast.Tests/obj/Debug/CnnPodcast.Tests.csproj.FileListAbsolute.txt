@@ -1,0 +1,134 @@
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\CnnPodcast.Tests.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\CnnPodcast.Tests.pdb
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Castle.Core.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Moq.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\nunit.framework.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.Http.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Castle.Core.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Moq.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\nunit.framework.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.Http.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Temp\Test\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.csprojResolveAssemblyReference.cache
+C:\Temp\Test\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.dll
+C:\Temp\Test\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.pdb
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\CnnPodcast.WebApi.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\CnnPodcast.WebApi.pdb
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\WebActivatorEx.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\StructureMap.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\StructureMap.Net4.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\StructureMap.Web.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.Razor.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\StructureMap.pdb
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\StructureMap.Net4.pdb
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\StructureMap.Web.pdb
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.Razor.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Temp\Test\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\CnnPodcast.Tests.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\CnnPodcast.Tests.pdb
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Castle.Core.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\CnnPodcast.WebApi.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Moq.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\nunit.framework.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.Http.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\WebActivatorEx.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\StructureMap.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\StructureMap.Net4.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\StructureMap.Web.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.Razor.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\CnnPodcast.WebApi.pdb
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Castle.Core.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Moq.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\nunit.framework.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.Http.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\StructureMap.pdb
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\StructureMap.Net4.pdb
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\StructureMap.Web.pdb
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.Razor.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Temp\BetssonTest\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.csprojResolveAssemblyReference.cache
+C:\Temp\BetssonTest\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.dll
+C:\Temp\BetssonTest\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.pdb
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\CnnPodcast.Tests.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\CnnPodcast.Tests.pdb
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Castle.Core.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\CnnPodcast.WebApi.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Moq.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\nunit.framework.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\StructureMap.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\StructureMap.Net4.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\StructureMap.Web.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\CnnPodcast.WebApi.pdb
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Castle.Core.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Moq.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\nunit.framework.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\StructureMap.pdb
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\StructureMap.Net4.pdb
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\StructureMap.Web.pdb
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.csprojResolveAssemblyReference.cache
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\obj\Debug\CnnPodcast.Tests.pdb
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\nunit.engine.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.Tests\bin\Debug\Mono.Cecil.Rocks.dll

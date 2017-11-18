@@ -172,11 +172,6 @@
   <ItemGroup>
     <Content Include="tsconfig.json" />
   </ItemGroup>
-  <ItemGroup>
-    <TypeScriptCompile Include="tsScripts\app.module.ts" />
-    <TypeScriptCompile Include="tsScripts\app.ts" />
-    <TypeScriptCompile Include="tsScripts\main.ts" />
-  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

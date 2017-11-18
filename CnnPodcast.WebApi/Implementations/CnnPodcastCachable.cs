@@ -28,10 +28,6 @@ namespace CnnPodcast.WebApi.Implementations
         /// <param name="rssFeed">The RSS feed.</param>
         public CnnPodcastModel GetCnnPodcastModel(string rssFeed)
         {
-
-            var type = typeof(CnnPodcastCachable);
-            var method = type.GetMethod("CnnPodcastCachable");
-            var genericMethod = method.MakeGenericMethod(typeof(object));
             return CacheHelper<CnnPodcastModel>.Get(rssFeed, () => _cnnPodcast.GetCnnPodcastModel(rssFeed));
         }
     }

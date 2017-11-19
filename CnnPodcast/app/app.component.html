@@ -1,4 +1,4 @@
-﻿<h2>Betsson Application...</h2>
+﻿<h2>Betsson RSS Feeder Application</h2>
 <form [formGroup]="cnnForm">
     <div class="row cnn-select">
         <select class="form-control" formControlName="category">
@@ -15,7 +15,7 @@
         <div *ngIf="rssFeeds.cnnPodcast.cnnPodcastClipItemModels" class="row">
             <div *ngFor="let clipItem of rssFeeds.cnnPodcast.cnnPodcastClipItemModels; let i = index">
                 <div class="clearfix" *ngIf="i%4==0"></div>
-                <div class="col-sm-3">
+                <div class="col-md-3">
                     <div>
                         <h3 class="headline-txt">
                             <a href="{{clipItem.clipLink}}" target="_blank"><span>{{clipItem.clipTitle}}</span></a>

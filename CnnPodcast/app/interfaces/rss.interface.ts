@@ -1,19 +1,18 @@
-export interface Rss{
+export interface FeedType{
     id: Number;
     cnnPodcast:{
         id: Number;
         PodcastTitle: string;
         PodcastDescription: string;
-        PodcastImage: string;
+        PodcastImage?: string;
         cnnPodcastClipItemModels?: {
             id: Number;
-            ClipTitle: string;
-            ClipDate: string;
-            ClipDescription: string;
-            ClipGuid: string;
-            ClipLink: string;
-            ClipMedia: string
+            ClipTitle?: string;
+            ClipDate?: string;
+            ClipDescription?: string;
+            ClipGuid?: string;
+            ClipLink?: string;
+            ClipMedia?: string
         }
     }
-
 }

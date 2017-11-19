@@ -70,9 +70,6 @@ C:\Temp\BetssonTest\CnnPodcast.WebApi\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Temp\BetssonTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.csprojResolveAssemblyReference.cache
 C:\Temp\BetssonTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.dll
 C:\Temp\BetssonTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.pdb
-C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.dll
-C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.pdb
 C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\bin\Debug\CnnPodcast.WebApi.dll
 C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\bin\Debug\CnnPodcast.WebApi.pdb
 C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
@@ -107,3 +104,6 @@ C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\bin\Debug\System.Web.We
 C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.dll
+C:\Users\my pc\Downloads\CandidateTest\CnnPodcast.WebApi\obj\Debug\CnnPodcast.WebApi.pdb

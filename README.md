@@ -1,6 +1,6 @@
 # Angular4.NetMVC
 
-SEO Implimantation:
+SEO Implimentation:
 
 We can add SEO support to the project by adding the following things.
 

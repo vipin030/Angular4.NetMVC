@@ -2,7 +2,7 @@
 
 SEO Implimentation:
 
-We can add SEO support to the project by adding the following things.
+If you want to add SEO support to the project please follow below procedure.
 
     1) we need to pre render the app before pushing to the client using platform-server package which is needed for server side rendering.
     npm install --save @angular/platform-server @angular/animations

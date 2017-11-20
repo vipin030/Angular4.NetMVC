@@ -9,7 +9,7 @@ If you want to add SEO support to the project please follow below procedure.
     and also create one module.server.ts and server.ts for server side rendering  for more information please visit below link:
     https://coursetro.com/posts/code/68/Make-your-Angular-App-SEO-Friendly-(Angular-4-+-Universal)
 	
-    2)Add below code to very page:
+    2)Add below code to every page:
 	
     import { Meta, Title } from '@angular/platform-browser';
     public page:any = { "title": "CNN Podcast", "decsription": "CNN PODCAST offer live news", "auther": "Betsson.com", "keywords":      "Betsson cnn news, Betsson live, Betsson news online"};

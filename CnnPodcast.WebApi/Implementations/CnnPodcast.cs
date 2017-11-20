@@ -30,11 +30,11 @@ namespace CnnPodcast.WebApi.Implementations
                 CnnPodcastClipItemModels = doc.Element("rss")?.Element("channel")?.Elements("item").Select(el => new CnnPodcastClipItemModel
                 {
                     ClipTitle = el.Element("title")?.Value,
-                    ClipDate = el.Element("date")?.Value,
+                    ClipDate = el.Element("pubDate")?.Value,
                     ClipDescription = el.Element("description")?.Value,
                     ClipGuid = el.Element("guid")?.Value,
                     ClipLink = el.Element("link")?.Value,
-                    ClipMedia = el.Element("image")?.Value
+                    ClipMedia = el.Element("media")?.Value
                 }).ToList()                
             };
         }

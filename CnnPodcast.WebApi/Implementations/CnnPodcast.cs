@@ -27,7 +27,7 @@ namespace CnnPodcast.WebApi.Implementations
                 PodcastImage = doc.Element("rss")?.Element("channel")?.Element(ns+"image")?.Value,
                 
                 // list containing all the items belonging to the podcast
-                CnnPodcastClipItemModels = doc.Element("rss")?.Element("channel")?.Elements("item").Select(el => new CnnPodcastClipItemModel
+                /*CnnPodcastClipItemModels = doc.Element("rss")?.Element("channel")?.Elements("item").Select(el => new CnnPodcastClipItemModel
                 {
                     ClipTitle = el.Element("title")?.Value,
                     ClipDate = el.Element("pubDate")?.Value,
@@ -35,7 +35,16 @@ namespace CnnPodcast.WebApi.Implementations
                     ClipGuid = el.Element("guid")?.Value,
                     ClipLink = el.Element("link")?.Value,
                     ClipMedia = el.Element("media")?.Value
-                }).ToList()                
+                }).ToList()*/
+                CnnPodcastClipItemModels = doc.Descendants("item").Where(g => g.Element(ns + "group") != null).Select(el => new CnnPodcastClipItemModel
+                {
+                    ClipTitle = el.Element("title")?.Value,
+                    ClipDate = el.Element("pubDate")?.Value,
+                    ClipDescription = el.Element("description")?.Value,
+                    ClipGuid = el.Element("guid")?.Value,
+                    ClipLink = el.Element("link")?.Value,
+                    ClipMedia = el.Element(ns + "group").Element(ns + "content").Attribute("url").Value
+                }).ToList()                  
             };
         }
     }

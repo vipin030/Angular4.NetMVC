@@ -1,6 +1,4 @@
-﻿body {
-}
-.headline-txt{
+﻿.headline-txt{
     font-weight:300;
     line-height:1.2;
     font-size:1.63333rem;
@@ -8,15 +6,6 @@
 .published-date{
      color:#06B;
  }
- .cnn-descrn{
-
- }
  a:hover{
      color:#0026ff;
  }
-.cnn-select{
-
-}
-.top-heading{
-
-}

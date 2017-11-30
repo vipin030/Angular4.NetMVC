@@ -1,4 +1,9 @@
 # Angular4.NetMVC
+Screenshot:
+
+![alt text](https://github.com/vipin030/Angular4.NetMVC/blob/master/screenshots/screenshot_final.jpg)
+
+![alt text](https://github.com/vipin030/Angular4.NetMVC/blob/master/screenshots/mobile.jpg)
 
 SEO Implimentation:
 
